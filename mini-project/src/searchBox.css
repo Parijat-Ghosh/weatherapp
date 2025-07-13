@@ -1,0 +1,6 @@
+.searchBox {
+    text-align: center;
+    margin: 0 auto; /* Center the searchBox horizontally */
+    margin-bottom: 20px; /* Reduced spacing below */
+    width: fit-content; /* Ensure the width is appropriate */
+}
